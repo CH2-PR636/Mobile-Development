@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ijo_primary">#4F6F52</color>
+    <color name="ijo_second">#739072</color>
+    <color name="kuning">#F4CE14</color>
+    <color name="putih_default">#F5F7F8</color>
+    <color name="merah">#BE3144</color>
+    <color name="transparant">#05F5F5F5</color>
+</resources>
