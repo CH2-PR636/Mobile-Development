@@ -29,12 +29,7 @@ class cameraActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnCapture.setOnClickListener { takePicture() }
-        binding.switchCamera.setOnClickListener { startCamera() }
-        binding.switchCamera.setOnClickListener {
-            cameraSelector =
-                if (cameraSelector.equals(CameraSelector.DEFAULT_BACK_CAMERA)) CameraSelector.DEFAULT_FRONT_CAMERA
-                else CameraSelector.DEFAULT_BACK_CAMERA
-        }
+        binding.switchCamera.setOnClickListener { switchCamera() }
         startCamera()
         back()
     }
@@ -43,8 +38,15 @@ class cameraActivity : AppCompatActivity() {
         binding.back.setOnClickListener {
             onBackPressed()
         }
-
     }
+
+    private fun switchCamera() {
+        cameraSelector =
+            if (cameraSelector == CameraSelector.DEFAULT_BACK_CAMERA) CameraSelector.DEFAULT_FRONT_CAMERA
+            else CameraSelector.DEFAULT_BACK_CAMERA
+        startCamera()
+    }
+
 
     public override fun onResume() {
         super.onResume()

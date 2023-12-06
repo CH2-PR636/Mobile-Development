@@ -44,7 +44,7 @@ fun rotateBitmap(bitmap: Bitmap, isBackCamera: Boolean = true): Bitmap {
         )
     } else {
         matrix.postRotate(90f, bitmap.width / 2f, bitmap.height / 2f)
-        matrix.postScale(1f, -1f)
+        matrix.postScale(1f, 1f)
         Bitmap.createBitmap(
             bitmap,
             0,
