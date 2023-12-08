@@ -3,11 +3,11 @@ package com.example.echopilah.main
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.LayoutInflater
 import androidx.fragment.app.Fragment
+import com.example.echopilah.Home.HomeFragment
 import com.example.echopilah.R
 import com.example.echopilah.databinding.ActivityMainBinding
-import com.example.echopilah.info.CatalogFragment
+import com.example.echopilah.catalog.CatalogFragment
 import com.example.echopilah.scan.ScanActivity
 
 class MainActivity : AppCompatActivity() {
@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         }
+
     }
 
     private fun replaceFragment(fragment: Fragment) {

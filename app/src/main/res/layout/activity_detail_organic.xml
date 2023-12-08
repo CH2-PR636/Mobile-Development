@@ -7,7 +7,7 @@
     app:layout_editor_absoluteX="1dp"
     app:layout_editor_absoluteY="1dp"
     android:fillViewport="true"
-    tools:context=".detail.home.DetailOrganic"
+    tools:context=".Home.DetailOrganic"
     android:background="@color/ijo_primary">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -59,6 +59,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
         android:text="@string/txtorganic"
         android:textAlignment="textStart"
         android:textColor="@color/ijo_second"

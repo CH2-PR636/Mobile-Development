@@ -1,4 +1,4 @@
-package com.example.echopilah.main
+package com.example.echopilah.Home
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,10 +8,6 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.echopilah.R
 import com.example.echopilah.databinding.FragmentHomeBinding
-import com.example.echopilah.detail.catalog.CatalogActivity
-import com.example.echopilah.detail.home.DetailNonOrganic
-import com.example.echopilah.detail.home.DetailOrganic
-import com.example.echopilah.info.CatalogFragment
 
 
 class HomeFragment : Fragment() {

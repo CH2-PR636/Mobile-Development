@@ -1,18 +1,16 @@
-package com.example.echopilah.detail.home
+package com.example.echopilah.Home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.echopilah.R
-import com.example.echopilah.databinding.ActivityDetailNonOrganicBinding
 import com.example.echopilah.databinding.ActivityDetailOrganicBinding
 
-class DetailNonOrganic : AppCompatActivity() {
+class DetailOrganic : AppCompatActivity() {
 
-    private lateinit var binding: ActivityDetailNonOrganicBinding
+    private lateinit var binding: ActivityDetailOrganicBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityDetailNonOrganicBinding.inflate(layoutInflater)
+        binding = ActivityDetailOrganicBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         setupAction()

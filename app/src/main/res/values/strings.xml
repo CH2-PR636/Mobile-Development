@@ -6,7 +6,7 @@
     <string name="camera">scan sampah</string>
     <string name="apk_name">EcoPilah</string>
     <string name="ajakan">let\'s be part of ecopilah !</string>
-    <string name="organic">Organic\n</string>
+    <string name="organic">Organic</string>
     <string name="txtorganic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doe iusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
     <string name="nonorganic">NonOrganic</string>
     <string name="txt_nonorganic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </string>
@@ -16,4 +16,77 @@
     <string name="deteksisampah">MARI CEK SAMPAH</string>
     <string name="desscan">Hai Sobat EcoPilah!! Mari kita cek sampah kita untuk lingkungan yang lebih baik</string>
     <string name="back">Kembali</string>
+    <string name="imgsampah">cover</string>
+    <string name="title">judul</string>
+
+
+    <string-array name="data_title">
+        <item>Plastic</item>
+        <item>Paper</item>
+        <item>Metal</item>
+        <item>Glass</item>
+    </string-array>
+    
+    <string-array name="data_description">
+        <item>1. Pot Tanaman Besar\n
+Salah satu hal yang bisa dimanfaatkan dari sampah plastik adalah pot tanaman besar yang mana dimanfaatkan dengan sisa galon bekas yang tidak digunakan. Banyak juga tumbuhan yang bisa digunakan sebagai media tanam.
+Tumbuhan sendiri bisa tumbuh dengan baik di tanaman pot besar berbahan plastik karena mampu menjaga lingkungan serta awet sekali mengingat sulit terurai.\n\n
+
+2. Jadi Mainan\n
+Tidak hanya barang-barang yang memberikan nilai, mainan juga bisa dihasilkan melalui mainan. Faktanya, mainan yang terbuat dari bahan plastik bisa beragam seperti yang berbentuk atau hanya terapan.
+Kreasi dari bahan plastik seperti helikopter atau robot bisa jadi alternatif dibandingkan membuat bahan plastik bekas sebagai produk yang tidak dapat dipakai. Mainan yang dibuat dari bahan plastik juga bisa menjadi ajang kreativitas.
+Tidak heran bila menjadikan barang-barang seperti ini untuk meningkatkan kedekatan bersama anak atau kerabat apalagi saat proses pembuatan mainan.\n\n
+
+3. Tempat Pensil atau Pulpen\n
+Tidak terbatas mainan, bagian dari botol plastik yang tidak terpakai bisa dimanfaatkan untuk kreasi lain yaitu tempat pensil atau pulpen. Kebutuhan satu ini bisa menjadi motivasi bagi anak agar belajar.
+Apalagi dengan mengkreasikan tempat pensil atau pulpen dengan dekorasi yang menarik agar anak selalu memiliki momen spesial saat belajar di kamar atau rumah.\n\n
+            
+4. Lampu Hias\n
+Barang satu ini bisa menjadi seni terapan yang menguntungkan, apalagi dengan menggunakan berbagai kreativitas sang pembuatnya. Botol plastik yang besar atau sedikit lebar bisa digunakan sebagai hiasan lampu.
+Lampu hias bisa juga menghasilkan warna yang beragam tergantung dari cover dari botol plastik yang digunakan dan tentunya akan menjadi sangat menarik saat dinyalakan pada malam hari.\n\n
+
+5. Wadah Akseoris\n
+Aksesoris juga bisa ditempatkan melalui wadah plastik yang tidak digunakan. Kegunaan ini bermanfaat apalagi bila memiliki banyak aksesoris kecil yang rawan hilang bila ditaruh di tempat yang bukan khususnya.
+Berbagai macam aksesoris seperti gelang, kalung, cincin, anting, dan lain sebagainya bisa dibuatkan wadah khusus melalui kreasi botol plastik yang didaur ulang.\n\n
+
+6. Pot Kebun Vertikal\n
+Pot juga bisa dipajang di bagian dinding, bukan hanya bidang datar atau tanah. Justru pot kebun vertikal memiliki nilai lebih karena parasnya yang sangat unik bila ditempatkan dengan sangat baik.
+Pot vertikal juga bisa digunakan untuk menjaga tanaman terinjak atau tergeser secara tidak sengaja. Ada juga berbagai tumbuhan yang meman disarankan untuk ditanam secara digantung seperti tanaman anggur.\n\n
+
+7. Tas Belanja\n
+Sampah plastik yang tidak terpakai juga bisa digunakan untuk membuat anyaman sebagai tas belanja. Tidak heran kekuatan sampah plastik yang awet bisa memiliki umur yang panjang karena bahan ini juga sulit terurai.\n\n
+8. Dompet Kecil\n
+Bahan-bahan dari plastik yang awet dan sangat sulit terurai juga bisa dikreasikan untuk membuat dompet. Ukuran dompet kecil sendiri bisa digunakan ketika berpergian belanja ke tempat yang kurang jauh.\n\n
+            
+9. Celengan Anak\n
+Celengan anak juga bisa dibuat melalui kreasi sampah plastik dengan menggunakan botol plastik tidak terpakai. Justru membuka tabungannya juga sangat mudah dengan menggunakan tutup botol yang bisa dilepas pasang.\n\n
+            
+10. Pot Tanaman Gantung\n
+Tanaman gantung yang bisa ditaruh pada atap rumah bisa menjadi alternatif pot lain bila kreasi pot besar maupun vertikal dirasa kurang cukup.</item>
+        <item>1. Menjaga Kesegaran Buah dan Sayur\n\n
+Taukah kamu kalau kertas bekas bisa digunakan untuk menjaga kesegaran buah dan sayur loh. Caranya cukup mudah yaitu tinggal membungkus buah dan sayur tersebut menggunakan kertas bekas. Tujuannya agar buah tidak busuk dan kulitnya tidak kering. Memang kita tidak bisa menjaga kesegaran buah dan sayur terlalu lama dengan menggunakan kertas. Karena faktor lain seperti suhu juga berpengaruh. Namun paling tidak saat kamu membeli buah segar dari pasar dan hendak di bawah ke rumah, kamu bisa menggunakan kertas untuk membungkusnya. Hal itu menjaga buah dan sayuran tidak tersentuh secara langsung oleh suhu dan kondisi di luar. Kesegaran buah dan sayur pun bisa terjaga dengan baik hanya dengan menggunakan kertas.
+
+2. Membersihkan perabot rumah\n\n
+Kamu punya beberapa perabot rumah tangga yang kotor, kamu bisa menggunakan kertas bekas untuk membersihkannya. Caranya cukup mudah tinggal rendam kertas bekas ke dalam air, kemudian gunakan sebagai lap untuk membersihkan perabotan. Tinggal di gosok menggunakan sabun dan perabot rumah kamu bisa bersih. Tidak hanya perabot rumah tangga, kamu juga bisa menggunakannya untuk membersihkan kaca jendela.
+
+3. Produk Kerajinan\n\n
+Kertas juga bisa digunakan sebagai bahan untuk membuat kerajinan tangan loh. Meskipun itu adalah kertas bekas, tapi masih bisa digunakan kok. Salah satunya kamu bisa membuat origami. Origami adalah salah satu kerajinan tangan yang cukup mudah. Hanya dengan 1 lembar kertas saja kamu bisa membuat berbagai macam bentuk. Mulai dari bentuk hewan, bangunan, kendaraan dan sebagainya.</item>
+    <item>asfknaoboasbovabdbvuadodiaoboainvosd</item>
+        <item>aisifhahfioaovnaodvnoianvoadnva</item>
+    </string-array>
+
+
+    <integer-array name="data_image1">
+        <item>@drawable/plastic</item>
+        <item>@drawable/paper</item>
+        <item>@drawable/metal</item>
+        <item>@drawable/glass</item>
+    </integer-array>
+
+    <integer-array name="data_image2">
+        <item>@drawable/plasticdetail</item>
+        <item>@drawable/paperdetail</item>
+        <item>@drawable/metaldetail</item>
+        <item>@drawable/glassdetail</item>
+    </integer-array>
 </resources>
