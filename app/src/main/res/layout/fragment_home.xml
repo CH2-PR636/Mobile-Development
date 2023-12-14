@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/ijo_primary"
-    tools:context=".Home.HomeFragment">
+    tools:context=".ui.Home.HomeFragment">
 
 
     <ImageView
@@ -48,6 +48,7 @@
         android:textColor="@color/ijo_second"
         android:textSize="15sp"
         android:textStyle="italic"
+        android:fontFamily="@font/poppins_medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/iv_logo" />

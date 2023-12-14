@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/ijo_primary"
-    tools:context=".catalog.CatalogFragment">
+    tools:context=".ui.catalog.CatalogFragment">
 
     <ImageView
         android:id="@+id/iv_catalogdash"
@@ -37,7 +37,10 @@
         android:textAlignment="center"
         android:textColor="@color/ijo_second"
         android:textSize="24sp"
+        android:fontFamily="@font/poppins_extrabold"
+        android:layout_marginHorizontal="12dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/imageView" />
 
@@ -45,12 +48,11 @@
         android:id="@+id/rvCatalog"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginTop="18dp"
-        tools:itemCount="4"
-        tools:listitem="@layout/card_view"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        tools:itemCount="4"
+        tools:listitem="@layout/card_view" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

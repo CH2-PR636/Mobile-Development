@@ -1,4 +1,4 @@
-package com.example.echopilah.scan
+package com.example.echopilah.ui.scan
 
 import android.content.Intent
 import android.os.Build
@@ -21,7 +21,7 @@ class cameraActivity : AppCompatActivity() {
     private lateinit var binding: ActivityCameraBinding
 
     private var imageCapture: ImageCapture? = null
-    private var cameraSelector: CameraSelector = CameraSelector.DEFAULT_FRONT_CAMERA
+    private var cameraSelector: CameraSelector = CameraSelector.DEFAULT_BACK_CAMERA
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

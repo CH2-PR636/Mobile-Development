@@ -1,4 +1,4 @@
-package com.example.echopilah.Home
+package com.example.echopilah.ui.Home
 
 import android.content.Intent
 import android.os.Bundle

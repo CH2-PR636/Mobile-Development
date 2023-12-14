@@ -1,15 +1,13 @@
 <resources>
     <string name="app_name">EchoPilah</string>
-    <string name="home">dashboard</string>
+    <string name="home">Dashboard</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="camera">scan sampah</string>
     <string name="apk_name">EcoPilah</string>
     <string name="ajakan">let\'s be part of ecopilah !</string>
     <string name="organic">Organic</string>
-    <string name="txtorganic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doe iusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
     <string name="nonorganic">NonOrganic</string>
-    <string name="txt_nonorganic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </string>
     <string name="catalog">Catalog</string>
     <string name="ajakancatalog">processing waste is very easy !</string>
     <string name="ceksampah">CEK SAMPAH MU</string>
@@ -19,50 +17,69 @@
     <string name="imgsampah">cover</string>
     <string name="title">judul</string>
 
+    <string name="txtorganic">
+        Sampah organik adalah sampah yang berasal dari sisa makhluk hidup (alam) seperti hewan, manusia, tumbuhan, dan benda hasil olahannya yang dapat mengalami pembusukan atau pelapukan.\n\n
+        Proses pembusukan atau pelapukan sampah organik berlangsung secara alami dengan bantuan mikroorganisme tanpa tambahan bahan kimia dalam waktu yang singkat.\n\n
+        Sampah organik dibagi menjadi dua jenis, yaitu sampah organik basah dan sampah organik kering : \n\n
+        1.Sampah Organik Basah: Sampah organik basah adalah sampah organik yang mempunyai kandungan air yang cukup tinggi. Contohnya kulit buah, sisa sayuran, kulit sayuran, dan biji buah.\n\n
+        2.Sampah Organik Kering: Sampah organik kering adalah bahan organik yang kandungan airnya kecil. Contoh sampah organik kering di antaranya, kayu atau ranting pohon, dan dedaunan kering, sisik ikan, cangkang kerang, kulit telur, batok kelapa, dan serbuk gergaji.\n\n
+
+        Pengolahan sampah organik sangat mudah dan tidak memerlukan biaya mahal. Hasil pengolahan sampah organik dapat dimanfaatkan sebagai pakan ternak dan pupuk kompos. Hasil pembusukan sampah organik sangat baik bagi tanah dan tumbuhan karena mengandung banyak zat hara.\n\n
+    </string>
+    <string name="txt_nonorganic">
+    Sampah non-organik atau sampah anorganik adalah sampah yang dihasilkan dari bahan-bahan non-hayati, seperti produk sintetik atau hasil proses teknologi pengolahan bahan tambang.Sampah ini tidak dapat diproses secara alami dan memerlukan waktu yang lama untuk terurai.Berikut adalah beberapa contoh sampah anorganik:\n\n
+    1.Sampah Plastik: Barang-barang yang berasal dari plastik memiliki beberapa keunggulan seperti tidak mudah berkarat dan tahan lama. Namun, jika sudah tidak berfungsi, barang-barang ini akan menjadi sampah plastik yang sulit terurai secara alami atau membutuhkan waktu yang sangat lama.\n\n
+    2.Sampah Logam: Sampah ini adalah limbah yang berasal dari bahan logam. Contoh sampah non-organik logam adalah besi, kaleng, alumunium, timah, dan jenis logam lainnya.\n\n
+    3.Sampah Gelas atau Kaca: Sampah non-organik ini berasal dari bahan kaca. Contohnya adalah gelas atau piring yang telah pecah dan tidak dapat lagi digunakan.\n\n
+
+    Pengolahan sampah anorganik memerlukan pengolahan khusus untuk dapat didaur ulang. Salah satu caranya adalah menjualnya dalam bentuk utuh, seperti plastik wadah pembungkus makanan, botol kaca, botol plastik, sisa gelas air mineral, kaleng, kaca, kertas koran, kertas galon, kertas HVS, dan lainnya\n\n
+    </string>
+    <string name="semboyan">Managing waste wisely is not only a responsibility, but also an opportunity.</string>
 
     <string-array name="data_title">
         <item>Plastic</item>
-        <item>Paper</item>
-        <item>Metal</item>
+        <item>\nPaper</item>
+        <item>\nMetal</item>
         <item>Glass</item>
     </string-array>
-    
+
     <string-array name="data_description">
-        <item>1. Pot Tanaman Besar\n
+        <item>1. Pot Tanaman Besar\n\n
 Salah satu hal yang bisa dimanfaatkan dari sampah plastik adalah pot tanaman besar yang mana dimanfaatkan dengan sisa galon bekas yang tidak digunakan. Banyak juga tumbuhan yang bisa digunakan sebagai media tanam.
 Tumbuhan sendiri bisa tumbuh dengan baik di tanaman pot besar berbahan plastik karena mampu menjaga lingkungan serta awet sekali mengingat sulit terurai.\n\n
 
-2. Jadi Mainan\n
+2. Jadi Mainan\n\n
 Tidak hanya barang-barang yang memberikan nilai, mainan juga bisa dihasilkan melalui mainan. Faktanya, mainan yang terbuat dari bahan plastik bisa beragam seperti yang berbentuk atau hanya terapan.
 Kreasi dari bahan plastik seperti helikopter atau robot bisa jadi alternatif dibandingkan membuat bahan plastik bekas sebagai produk yang tidak dapat dipakai. Mainan yang dibuat dari bahan plastik juga bisa menjadi ajang kreativitas.
 Tidak heran bila menjadikan barang-barang seperti ini untuk meningkatkan kedekatan bersama anak atau kerabat apalagi saat proses pembuatan mainan.\n\n
 
-3. Tempat Pensil atau Pulpen\n
+3. Tempat Pensil atau Pulpen\n\n
 Tidak terbatas mainan, bagian dari botol plastik yang tidak terpakai bisa dimanfaatkan untuk kreasi lain yaitu tempat pensil atau pulpen. Kebutuhan satu ini bisa menjadi motivasi bagi anak agar belajar.
 Apalagi dengan mengkreasikan tempat pensil atau pulpen dengan dekorasi yang menarik agar anak selalu memiliki momen spesial saat belajar di kamar atau rumah.\n\n
             
-4. Lampu Hias\n
+4. Lampu Hias\n\n
 Barang satu ini bisa menjadi seni terapan yang menguntungkan, apalagi dengan menggunakan berbagai kreativitas sang pembuatnya. Botol plastik yang besar atau sedikit lebar bisa digunakan sebagai hiasan lampu.
 Lampu hias bisa juga menghasilkan warna yang beragam tergantung dari cover dari botol plastik yang digunakan dan tentunya akan menjadi sangat menarik saat dinyalakan pada malam hari.\n\n
 
-5. Wadah Akseoris\n
+5. Wadah Akseoris\n\n
 Aksesoris juga bisa ditempatkan melalui wadah plastik yang tidak digunakan. Kegunaan ini bermanfaat apalagi bila memiliki banyak aksesoris kecil yang rawan hilang bila ditaruh di tempat yang bukan khususnya.
 Berbagai macam aksesoris seperti gelang, kalung, cincin, anting, dan lain sebagainya bisa dibuatkan wadah khusus melalui kreasi botol plastik yang didaur ulang.\n\n
 
-6. Pot Kebun Vertikal\n
+6. Pot Kebun Vertikal\n\n
 Pot juga bisa dipajang di bagian dinding, bukan hanya bidang datar atau tanah. Justru pot kebun vertikal memiliki nilai lebih karena parasnya yang sangat unik bila ditempatkan dengan sangat baik.
 Pot vertikal juga bisa digunakan untuk menjaga tanaman terinjak atau tergeser secara tidak sengaja. Ada juga berbagai tumbuhan yang meman disarankan untuk ditanam secara digantung seperti tanaman anggur.\n\n
 
-7. Tas Belanja\n
+7. Tas Belanja\n\n
 Sampah plastik yang tidak terpakai juga bisa digunakan untuk membuat anyaman sebagai tas belanja. Tidak heran kekuatan sampah plastik yang awet bisa memiliki umur yang panjang karena bahan ini juga sulit terurai.\n\n
-8. Dompet Kecil\n
+8. Dompet Kecil\n\n
 Bahan-bahan dari plastik yang awet dan sangat sulit terurai juga bisa dikreasikan untuk membuat dompet. Ukuran dompet kecil sendiri bisa digunakan ketika berpergian belanja ke tempat yang kurang jauh.\n\n
             
-9. Celengan Anak\n
+9. Celengan Anak\n\n
 Celengan anak juga bisa dibuat melalui kreasi sampah plastik dengan menggunakan botol plastik tidak terpakai. Justru membuka tabungannya juga sangat mudah dengan menggunakan tutup botol yang bisa dilepas pasang.\n\n
             
-10. Pot Tanaman Gantung\n
-Tanaman gantung yang bisa ditaruh pada atap rumah bisa menjadi alternatif pot lain bila kreasi pot besar maupun vertikal dirasa kurang cukup.</item>
+10. Pot Tanaman Gantung\n\n
+Tanaman gantung yang bisa ditaruh pada atap rumah bisa menjadi alternatif pot lain bila kreasi pot besar maupun vertikal dirasa kurang cukup.\n
+</item>
         <item>1. Menjaga Kesegaran Buah dan Sayur\n\n
 Taukah kamu kalau kertas bekas bisa digunakan untuk menjaga kesegaran buah dan sayur loh. Caranya cukup mudah yaitu tinggal membungkus buah dan sayur tersebut menggunakan kertas bekas. Tujuannya agar buah tidak busuk dan kulitnya tidak kering. Memang kita tidak bisa menjaga kesegaran buah dan sayur terlalu lama dengan menggunakan kertas. Karena faktor lain seperti suhu juga berpengaruh. Namun paling tidak saat kamu membeli buah segar dari pasar dan hendak di bawah ke rumah, kamu bisa menggunakan kertas untuk membungkusnya. Hal itu menjaga buah dan sayuran tidak tersentuh secara langsung oleh suhu dan kondisi di luar. Kesegaran buah dan sayur pun bisa terjaga dengan baik hanya dengan menggunakan kertas.
 
@@ -70,9 +87,71 @@ Taukah kamu kalau kertas bekas bisa digunakan untuk menjaga kesegaran buah dan s
 Kamu punya beberapa perabot rumah tangga yang kotor, kamu bisa menggunakan kertas bekas untuk membersihkannya. Caranya cukup mudah tinggal rendam kertas bekas ke dalam air, kemudian gunakan sebagai lap untuk membersihkan perabotan. Tinggal di gosok menggunakan sabun dan perabot rumah kamu bisa bersih. Tidak hanya perabot rumah tangga, kamu juga bisa menggunakannya untuk membersihkan kaca jendela.
 
 3. Produk Kerajinan\n\n
-Kertas juga bisa digunakan sebagai bahan untuk membuat kerajinan tangan loh. Meskipun itu adalah kertas bekas, tapi masih bisa digunakan kok. Salah satunya kamu bisa membuat origami. Origami adalah salah satu kerajinan tangan yang cukup mudah. Hanya dengan 1 lembar kertas saja kamu bisa membuat berbagai macam bentuk. Mulai dari bentuk hewan, bangunan, kendaraan dan sebagainya.</item>
-    <item>asfknaoboasbovabdbvuadodiaoboainvosd</item>
-        <item>aisifhahfioaovnaodvnoianvoadnva</item>
+Kertas juga bisa digunakan sebagai bahan untuk membuat kerajinan tangan loh. Meskipun itu adalah kertas bekas, tapi masih bisa digunakan kok. Salah satunya kamu bisa membuat origami. Origami adalah salah satu kerajinan tangan yang cukup mudah. Hanya dengan 1 lembar kertas saja kamu bisa membuat berbagai macam bentuk. Mulai dari bentuk hewan, bangunan, kendaraan dan sebagainya.\n\n
+
+4. Dekorasi Bunga\n\n
+Cara memanfaatkan limbah kertas bekas selanjutnya adalah dekorasi ruangan. Kalau kamu punya kreativitas yang lebih dan suka mencoba hal baru, kamu bisa mencoba yang satu ini. Kertas bekas yang tidak terpakai bisa kamu gunakan untuk menghias ruangan kamu. Kamu bisa menggunting dan membentuk seperti kupu-kupu, bentuk hati, atau huruf yang membentuk nama kamu. Berbagai macam bentuk bisa kamu coba dengan kertas bekas. Agar terlihat menarik kamu bisa mewarnai kertas-kertas tersebut dengan warna yang sesuai.
+
+5. Replika Bunga\n\n
+Kertas bekas yang masih bagus juga bisa digunakan untuk membuat replika bunga. Replika bunga ini bisa dibuat dengan cara menggunting kertas-kertas dan membentuk menjadi bagian-bagian bunga. Kamu bisa membuat kelopak, daun, kemudian tangkainya. Setelah semuanya jadi, kamu tinggal menyatukannya dengan lem untuk membuat bunganya. Dalam membuat replika bunga ini kamu butuh teknik menggunting dan mengelem juga. Kamu bisa gunakan imajinasimu atau beberapa referensi dari internet tentang replika bunga menggunakan kertas.\n\n
+
+6. Pengering\n\n
+Kertas bekas juga bisa kamu gunakan sebagai alat untuk mengeringkan sesuatu. Misalnya ada lantai basah tapi kamu tidak punya lap. Kamu bisa menggunakan kertas sebagai penggantinya. Jika kamu punya sepatu yang basah, kamu bisa memasukkan kertas kedalam sepatu kamu. Kertas ini akan menyerap air yang ada di dalam sepatu dan mengeringkannya.\n\n
+
+7. Alas Baju\n\n
+Nah biasanya nih anak kosan pasti sering menggunakan kertas sebagai alas baju di lemari. Kertas koran adalah salah satu kertas yang paling dicari anak kos terutama saat dia menempati kos yang baru. Kamu juga pasti memiliki kertas koran kan di lemari kamu sebagai alas baju. Nah aku sarankan kamu menggunakan lebih dari 2 kertas untuk menjadi alas baju. Agar baju tidak mudah rusak dan lebih awet di dalam lemari.\n\n
+
+8. Alas Gorengan\n\n
+Kamu yang suka makan gorengan pasti sering menggunakan kertas sebagai alas gorengan. Ya itu bagus, karena kertas bisa menyerap minyak yang ada dalam gorengan. Paling tidak gorengan yang kamu makan berkurang kadar minyaknya dan kamu tidak memakan banyak minyak. Jadi buat pecinta gorengan kamu bisa sediakan banyak kertas di rumahmu untuk berjaga jaga. Siapa tau kamu beli gorengan hanya dibungkus kresek dan saat dibuka ternyata gorengannya masih mengandung banyak minyak. Disitulah kamu bisa menggunakan kertas bekas ini untuk menyerap minyaknya.\n\n
+
+9. Pembungkus barang\n\n
+Kalau kamu punya barang berharga atau barang yang jarang kamu gunakan, kamu bisa membungkusnya dengan kertas. Kertas ini digunakan untuk membungkus barang agar barang tersebut tidak rusak dan kotor. Jika kamu ingin barang kamu tahan lama dan awet, maka siapkan kertas untuk menbungkusnya.\n\n
+
+10. Busana atau Baju\n\n
+Jika kamu memiliki banyak kertas yang tidak terpakai, kamu bisa menjadikan kertas tersebut menjadi sbuah baju loh. Banyak sekali contoh pengrajin yang sudah membuat berbagai macam bentuk baju dari keras. Kalau kamu pernah ikut pameran busana kerajinan, kamu pasti dusah tidak asing lagi. Busana atau baju dari kertas ini memang membutuhkan banyak kertas untuk membuatnya. Namun jika kamu bisa membuatnya, kamu bisa mendapatkan uang dari iru dengan cara menyewakannya.\n\n
+</item>
+        <item>
+    Besi bekas adalah salah satu penyumbang limbah terbesar di lingkungan, namun sebenarnya ada cara-cara memanfaatkan limbah besi tersebut.
+Sampah besi bekas merupakan salah satu penyumbang limbah terbesar di lingkungan saat ini. Penggunaannya yang massif, namun minim pendauran menjadikan sampah besi bertebaran dimana-mana. Bahkan tak susah untuk menemukan limbah yang satu ini di aliran sungai, got-got rumah, hingga ke kawasan pantai.\n\n
+    Tak banyak yang mengetahui bahwa sebenarnya limbah besi masih sangat bisa untuk dimanfaatkan kembali, untuk keperluan sehari-hari.\n\n
+Ide dan Cara Memanfaatkan Limbah Besi\n\n
+Ada beragam cara menanfaatkan limbah besi yang bisa anda coba, berikut adalah beberapa contohnya :\n\n\n
+
+    1. Pot Tanaman\n\n
+Pemanfaatan yang pertama adalah mengubah limbah besi menjadi pot tanaman. Bahan utama dari pot tanaman ini adalah kaleng bekas, baik itu bekas minuman, makanan kaleng, pengharum, bahkan bekas kaleng cat pun bisa digunakan.
+Anda bisa memulainya dengan membersihkan terlebih dahulu kaleng bekas tersebut. Jika sudah bersih dan kering, maka tahapan selanjutnya adalah mulai mewarnai bagian luar dari kaleng. Anda bisa memilih warna polos, ataupun bisa menambahkan corak dan motif-motif lucu.
+Setelah selesai diwarnai, tahapan selanjutnya adalah memberikan beberapa lubang kecil di bagian bawah kaleng, agar bisa memberikan ruang resparasi dan tempat keluar masuk air untuk tanaman. Barulah setelahnya Anda bisa menambahkan kreasi dengan menjadikannya pot gantung, dengan menggunakan sisa kawat atau tali yang ada di rumah. Namun jika memang tidak ada, anda bisa menggunakannya sebagai pot duduk biasanya.\n\n
+2. Asbak Rokok\n\n
+Kreasi yang kedua adalah asbak rokok. Mungkin terdengarnya sepele, namun sebenarnya hal ini sangat berguna. Anda bisa menghasilkan wadah untuk asbak rokok dari besi bekas. Besi yang anda gunakan bisa beragam jenisnya. Langkah-langkahnya adalah dengan mulai memilah jenis besi terlebihdahulu.
+Jika besi bekas tersebut sudah berupa wadah, maka tahapan selanjutnya adalah mengecatnya untuk menghilangkan sisa karat, sekaligus memunculkan kesan baru dan bersih pada besi. Setelahnya berikan bantalan dari besi atau bahan kayu di atas wadah, yang berguna sebagai tempat untuk meletakkan rokok.\n\n
+3. Membuat mainan\n\n
+Pemanfaatan yang ketiga adalah untuk membuat mainan anak. Dari besi bekas ini Anda bisa merakitnya menjadi beberapa jenis mainan, antara lain mobil-mobilan, pesawat tempur, pistol atau mainan tembak-tembakan, kemudian bisa juga dirubah menjaid robot-robotan.
+Kunci dari perakitan ini adalah adanya alat las dan alat solder, sebab mengharuskan Anda untuk melubangi dan menyatukan antara besi satu dan yang lainnya. Jangan lupa untuk memberikan warna dengan cat besi atau pilox, untuk mendapatkan mainan yang baru dan tak cepat berkarat.\n\n
+4. Lampu gantung\n\n
+Pemanfaatan limbah besi selanjutnya adalah untuk diubah menjadi lampu gantung. Biasanya ide ini sangat cocok digunakan jika Anda menyukai tampilan outdoor yang terkesan vintage ataupun lawas. Penggunaan besi bekas sebagai pengganti lampu outdoor bisa Anda coba, untuk mengganti lilin atau mungkin lampu templek.
+Caranya adalah dengan membuat besi bekas menjadi sebentuk wadah, yang memiliki beberapa bolongan kecil. Bolongan ini bisa dikreasikan seperti bentuk bulat, memanjang, ataupun bentuk lainnya agar terlihat beragam dan indah.
+Wadah ini nantinya tinggal dijadikan bagian luar dari lampu gantung yang anda miliki. Bentuk bolongan inilah yang nantinya akan memberikan corak yang khas pada pantulan cahaya lampu tersebut. Penggunaan bohlam juga lebih disarankan daripada lilin, untuk menghindari kondisi besi yang terlalu panas atau terbakar.\n\n
+
+Itulah beberapa kreasi dari besi bekas yang bisa anda coba, dalam rangka untuk mengurangi limbah sampah besi di lingkungan anda.\n
+</item>
+        <item>
+    Di tengah maraknya pemberitaan dan laporan tentang sampah plastik yang menumpuk di sejumlah tempat di Indonesia, salah satu jenis sampah lain yang harus ditanggulangi adalah sampah kaca. Berdasarkan hasil riset, sampah kaca yang dihasilkan Indonesia adalah sebesar 12,7% dari total 64 juta ton per tahun.\n\n
+
+Alih-alih membiarkan tempat pembuangan sampah menumpuk dengan benda-benda tajam yang mengancam keselamatan dan lingkungan, kotor, berbau dan menimbulkan penyakit, kita bisa menggunakannya lagi dengan mendaur ulangnya. Mendaur ulang kaca adalah salah satu dari banyak cara yang bisa dilakukan untuk mengurangi polusi dan limbah.\n\n
+
+Gelas dapat dilebur dan dibuat dalam berbagai bentuk mulai dari minum gelas hingga serat gelas. Ketika gelas dibawa ke pabrik atau pabrik daur ulang, gelas itu dipecah menjadi potongan-potongan kecil yang disebut cullet. Potongan yang rusak dihancurkan, disortir, dibersihkan, dan disiapkan untuk dicampur dengan bahan baku lain seperti soda abu dan pasir. Bahan baku dan potongan kaca dilebur dalam tungku dan kemudian dibentuk menjadi cetakan untuk membuat botol baru dengan warna dan ukuran yang berbeda. Sekarang, botol daur ulang baru sudah terbuat.\n\n
+
+Jika kalian ingin tidak mempunyai alat-alat untuk melakukan hal-hal di atas, jangan khawatir. Kita juga bisa mendaur ulang limbah kaca menjadi pot untuk tanaman hias di rumah dengan cara sederhana. Berikut adalah tahap-tahap yang bisa dilakukan untuk mendaur ulang limbah kaca menjadi pot tanaman hias:\n\n
+
+1.Kumpulkan limbah kaca berbentuk botol yang dapat ditemukan di lingkungan rumah\n\n
+
+2.Pilih limbah kaca yang kiranya dapat di daur ulang lalu bersihkan dengan sabun dan air lalu lepaskan juga label kertas yang menempel pada kaca\n\n
+
+3.Hias bagian luar kaca dengan motif dan warna yang diinginkan\n\n
+
+4.Isi kaca dengan tanah dan hal-hal lain yang dibutuhkan untuk perkembangan tanahaman hias\n\n
+
+Sekarang, limbah kaca tersebut sudah dapat digunakan sebagai pot tanaman hias atau tempat lain untuk menyimpan barang-barang kamu. Kamu juga bisa memulai bisnis dengan menjual hiasan hasil daur ulang tersebut.\n</item>
     </string-array>
 
 

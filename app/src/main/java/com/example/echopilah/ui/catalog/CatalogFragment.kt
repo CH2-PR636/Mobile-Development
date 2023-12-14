@@ -1,4 +1,4 @@
-package com.example.echopilah.catalog
+package com.example.echopilah.ui.catalog
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

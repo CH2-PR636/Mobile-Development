@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/ijo_second"
-    tools:context=".main.MainActivity">
+    tools:context=".ui.main.MainActivity">
 
     <FrameLayout
         android:id="@+id/frame_layout"
@@ -43,7 +43,8 @@
         android:src="@drawable/camera"
         android:contentDescription="@string/camera"
         app:layout_anchor="@id/bottomAppBar"
-        app:maxImageSize="30dp" />
+        app:maxImageSize="30dp"
+        app:tint="@color/white"/>
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

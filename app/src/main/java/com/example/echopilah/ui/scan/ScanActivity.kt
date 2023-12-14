@@ -1,9 +1,10 @@
-package com.example.echopilah.scan
+package com.example.echopilah.ui.scan
 
 import android.Manifest
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.BitmapFactory
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.result.contract.ActivityResultContracts
@@ -45,7 +46,7 @@ class ScanActivity : AppCompatActivity() {
             }
 
             btnCamera.setOnClickListener { startCamera() }
-            btnTrash.setOnClickListener { removeImage() }
+            btnGallery.setOnClickListener { uploadGalery() }
             btnCek.setOnClickListener { postPhoto() }
         }
     }
@@ -54,8 +55,28 @@ class ScanActivity : AppCompatActivity() {
         TODO("Not yet implemented")
     }
 
-    private fun removeImage() {
-        TODO("Not yet implemented")
+    private fun uploadGalery() {
+            val intent = Intent()
+            intent.action = Intent.ACTION_GET_CONTENT
+            intent.type = "image/*"
+            val chooser = Intent.createChooser(intent, "Choose a Picture")
+            launcherIntentGallery.launch(chooser)
+    }
+
+    private val launcherIntentGallery = registerForActivityResult(
+        ActivityResultContracts.StartActivityForResult()
+    ) { result ->
+        if (result.resultCode == RESULT_OK) {
+            val selectedImg: Uri = result.data?.data as Uri
+            val myFile = uriToFile(selectedImg, this@ScanActivity)
+
+            getFile = myFile
+
+            Glide.with(this)
+                .load(selectedImg)
+                .centerCrop()
+                .into(binding.imageView2)
+        }
     }
 
     private fun startCamera() {

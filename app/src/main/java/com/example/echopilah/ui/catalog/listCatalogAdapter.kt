@@ -1,4 +1,4 @@
-package com.example.echopilah.catalog
+package com.example.echopilah.ui.catalog
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -19,7 +19,7 @@ class listCatalogAdapter(private val listCatalog: ArrayList<Catalog>) : Recycler
     }
 
     override fun getItemCount(): Int = listCatalog.size
-    override fun onBindViewHolder(holder: listCatalogAdapter.ListViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
         val (image1,image2,title,description) = listCatalog[position]
         holder.cvTitle.text = title
         holder.cvImage.setImageResource(image1)
