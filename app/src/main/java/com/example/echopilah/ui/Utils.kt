@@ -1,4 +1,4 @@
-package com.example.echopilah.ui.scan
+package com.example.echopilah.ui
 
 import android.app.Application
 import android.content.ContentResolver
@@ -43,8 +43,7 @@ fun createFile(application: Application): File {
 fun rotateBitmap(bitmap: Bitmap, isBackCamera: Boolean = true): Bitmap {
     val matrix = Matrix()
     return if (isBackCamera) {
-        matrix.postRotate(-90f)
-        matrix.postScale(-1f, 1f, bitmap.width / 2f, bitmap.height / 2f)
+        matrix.postRotate(90f)
         Bitmap.createBitmap(
             bitmap,
             0,
@@ -69,17 +68,8 @@ fun rotateBitmap(bitmap: Bitmap, isBackCamera: Boolean = true): Bitmap {
     }
 }
 
-fun uriToFile(selectedImg: Uri, context: Context): File {
-    val contentResolver: ContentResolver = context.contentResolver
-    val myFile = createTempFile(context)
-
-    val inputStream = contentResolver.openInputStream(selectedImg) as InputStream
-    val outputStream: OutputStream = FileOutputStream(myFile)
-    val buf = ByteArray(1024)
-    var len: Int
-    while (inputStream.read(buf).also { len = it } > 0) outputStream.write(buf, 0, len)
-    outputStream.close()
-    inputStream.close()
-
-    return myFile
+fun deleteFile(file: File) {
+    if (file.exists()) {
+        file.delete()
+    }
 }

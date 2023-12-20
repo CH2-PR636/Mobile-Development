@@ -13,8 +13,8 @@ import androidx.camera.core.ImageCaptureException
 import androidx.camera.core.Preview
 import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.core.content.ContextCompat
-import com.example.echopilah.R
 import com.example.echopilah.databinding.ActivityCameraBinding
+import com.example.echopilah.ui.createFile
 
 class cameraActivity : AppCompatActivity() {
 

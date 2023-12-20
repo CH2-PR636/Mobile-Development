@@ -71,7 +71,18 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView6"
-            app:srcCompat="@drawable/image" />
+            android:src="@drawable/image" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="12dp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView6"
+            android:src="@drawable/frame" />
 
         <LinearLayout
             android:id="@+id/ll_scan"
@@ -99,7 +110,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/btn_gallery"
+                android:id="@+id/btn_trash"
                 android:layout_width="0dp"
                 android:layout_height="50dp"
                 android:layout_marginEnd="10dp"
@@ -108,10 +119,10 @@
                 app:cardCornerRadius="20dp">
 
                 <ImageView
-                    android:layout_width="50dp"
-                    android:layout_height="30dp"
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
                     android:layout_gravity="center"
-                    android:src="@drawable/photo_album" />
+                    android:src="@drawable/dushbin" />
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>

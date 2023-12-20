@@ -35,6 +35,12 @@
     Pengolahan sampah anorganik memerlukan pengolahan khusus untuk dapat didaur ulang. Salah satu caranya adalah menjualnya dalam bentuk utuh, seperti plastik wadah pembungkus makanan, botol kaca, botol plastik, sisa gelas air mineral, kaleng, kaca, kertas koran, kertas galon, kertas HVS, dan lainnya\n\n
     </string>
     <string name="semboyan">Managing waste wisely is not only a responsibility, but also an opportunity.</string>
+    <string name="organic_desc">Yeay!! Sampah yang kamu deteksi adalah sampah jenis organik</string>
+    <string name="non_organic_desc">Yeay!! Sampah yang kamu deteksi adalah sampah jenis Non - organik</string>
+    <string name="done">Done</string>
+    <string name="organik">Organik</string>
+    <string name="non_organik">Non-organik</string>
+    <string name="nothing">Tidak Ada Gambar</string>
 
     <string-array name="data_title">
         <item>Plastic</item>
