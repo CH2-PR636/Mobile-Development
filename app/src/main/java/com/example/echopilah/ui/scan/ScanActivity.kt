@@ -93,12 +93,12 @@ class ScanActivity : AppCompatActivity() {
         dialog.setContentView(R.layout.popup_layout)
         dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
 
-        val tvjudul = dialog.findViewById<TextView>(R.id.tv_judul)
-        val tvdetail = dialog.findViewById<TextView>(R.id.tv_detail)
+        val textJudul = dialog.findViewById<TextView>(R.id.tv_judul)
+        val textDesc = dialog.findViewById<TextView>(R.id.tv_detail)
         val buttonDone = dialog.findViewById<Button>(R.id.btn_done)
 
-        tvjudul.text = labelName(label = scanresponse.jsonMemberClass )
-        tvdetail.text = labelDesc(label = scanresponse.jsonMemberClass)
+        textJudul.text = labelName(label = scanresponse.jsonMemberClass )
+        textDesc.text = labelDesc(label = scanresponse.jsonMemberClass)
 
         buttonDone.setOnClickListener {
             dialog.dismiss()

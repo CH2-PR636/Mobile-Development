@@ -19,7 +19,7 @@
             android:id="@+id/detail_image"
             android:layout_width="400dp"
             android:layout_height="0dp"
-            android:layout_marginTop="18dp"
+            android:layout_marginTop="8dp"
             android:src="@drawable/plasticdetail"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -38,13 +38,14 @@
             app:layout_constraintTop_toBottomOf="@+id/detail_image"
             app:layout_constraintVertical_bias="0.0" />
 
-        <ImageView
+        <Button
             android:id="@+id/btn_back"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="16dp"
-            android:src="@drawable/back"
+            android:layout_marginTop="12dp"
+            android:drawableLeft="@drawable/back"
+            android:text="@string/back"
+            android:fontFamily="@font/poppins_medium"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 

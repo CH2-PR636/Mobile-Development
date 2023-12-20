@@ -18,21 +18,19 @@
     <string name="title">judul</string>
 
     <string name="txtorganic">
-        Sampah organik adalah sampah yang berasal dari sisa makhluk hidup (alam) seperti hewan, manusia, tumbuhan, dan benda hasil olahannya yang dapat mengalami pembusukan atau pelapukan.\n\n
-        Proses pembusukan atau pelapukan sampah organik berlangsung secara alami dengan bantuan mikroorganisme tanpa tambahan bahan kimia dalam waktu yang singkat.\n\n
-        Sampah organik dibagi menjadi dua jenis, yaitu sampah organik basah dan sampah organik kering : \n\n
-        1.Sampah Organik Basah: Sampah organik basah adalah sampah organik yang mempunyai kandungan air yang cukup tinggi. Contohnya kulit buah, sisa sayuran, kulit sayuran, dan biji buah.\n\n
-        2.Sampah Organik Kering: Sampah organik kering adalah bahan organik yang kandungan airnya kecil. Contoh sampah organik kering di antaranya, kayu atau ranting pohon, dan dedaunan kering, sisik ikan, cangkang kerang, kulit telur, batok kelapa, dan serbuk gergaji.\n\n
+        sampah organik adalah sampah sisa yang masih bisa dimanfaatkan menjadi bahan yang layak pakai lagi. sampah jenis ini bisa terurai meski dibiarkan begitu saja sampah ini akan menghilang dengan sendirinya.\n\n
+        sampah organik bisa dikatakan sebagai sampah ramah lingkungan bahkan sampah ini bisa diolah kembali menjadi sesuatu yang bermanfaat bila dikelola dengan tepat Tetapi bila tidak dikelola dengan benar akan menimbulkan penyakit dan bau yang kurang sedap hasil pembusukan dari sampah organik yang cepat.\n\n
+        sampah organik dibagi menjadi dua jenis, yaitu :\n\n
+        pertama sampah organik basah sampah organik basah adalah sampah organik yang banyak mengandung air contohnya sayur kulit pisang buah yang busuk kulit bawang dan sejenisnya inilah Kenapa sampah organik dapat menimbulkan bau tidak sedap sebab kandungan air tinggi yang menyebabkan sampah jenis ini cepat membusuk.\n\n
+        Kedua sampah organik kering adalah sampah organik yang sedikit mengandung air contohnya kayu ranting pohon dan daun-daun kering kebanyakan sampah organik ini sulit diolah Kembali jadi lebih sering dibakar untuk memusnahkannya \n\n
+        tiga sampah organik dapat diubah menjadi biogas dan listrik sampah organik yang berasal dari kotoran hewan maupun manusia limbah tempe dan tahu digunakan sebagai bahan utama untuk dijadikan biogas dan Listrik.\n\n
+        manfaat sampah organik yang pertama bisa digunakan untuk kompos atau pupuk organik sampah organik seperti buah-buahan busuk dan sayuran dapat dibuat menjadi kompos dan pengolahannya juga tidak terlalu sulit yang kedua untuk tambahan pakan ternak udah hanya dibuat untuk tambahan pakan kambing sapi dan kerbau tapi sekarang ini sampah organik dapat diolah menjadi pelet untuk makanan ayam dan ikan.\n
 
-        Pengolahan sampah organik sangat mudah dan tidak memerlukan biaya mahal. Hasil pengolahan sampah organik dapat dimanfaatkan sebagai pakan ternak dan pupuk kompos. Hasil pembusukan sampah organik sangat baik bagi tanah dan tumbuhan karena mengandung banyak zat hara.\n\n
     </string>
     <string name="txt_nonorganic">
-    Sampah non-organik atau sampah anorganik adalah sampah yang dihasilkan dari bahan-bahan non-hayati, seperti produk sintetik atau hasil proses teknologi pengolahan bahan tambang.Sampah ini tidak dapat diproses secara alami dan memerlukan waktu yang lama untuk terurai.Berikut adalah beberapa contoh sampah anorganik:\n\n
-    1.Sampah Plastik: Barang-barang yang berasal dari plastik memiliki beberapa keunggulan seperti tidak mudah berkarat dan tahan lama. Namun, jika sudah tidak berfungsi, barang-barang ini akan menjadi sampah plastik yang sulit terurai secara alami atau membutuhkan waktu yang sangat lama.\n\n
-    2.Sampah Logam: Sampah ini adalah limbah yang berasal dari bahan logam. Contoh sampah non-organik logam adalah besi, kaleng, alumunium, timah, dan jenis logam lainnya.\n\n
-    3.Sampah Gelas atau Kaca: Sampah non-organik ini berasal dari bahan kaca. Contohnya adalah gelas atau piring yang telah pecah dan tidak dapat lagi digunakan.\n\n
 
-    Pengolahan sampah anorganik memerlukan pengolahan khusus untuk dapat didaur ulang. Salah satu caranya adalah menjualnya dalam bentuk utuh, seperti plastik wadah pembungkus makanan, botol kaca, botol plastik, sisa gelas air mineral, kaleng, kaca, kertas koran, kertas galon, kertas HVS, dan lainnya\n\n
+        Apa itu sampah nonorganik sampah nonorganik adalah sampah yang sudah dibuang dan tidak layak lagi pakai sampah ini tidak bisa terurai sampah nonorganik yang tertimbun di tanah dapat menyebabkan pencemaran karena sampah ini tergolong zat yang sulit terurai dan akan tertimbun dalam waktu yang lama inilah yang menyebabkan Rusaknya lapisan tanah contoh sampah nonorganik adalah plastik botol atau kaleng minum kresek ban bekas besi kaca kabel barang elektronik bola lampu plastik dan lain-lain memang sampah nonorganik sulit terurai tetapi masih bisa kita manfaatkan kembali jangan sampai dibiarkan begitu saja.\n
+
     </string>
     <string name="semboyan">Managing waste wisely is not only a responsibility, but also an opportunity.</string>
     <string name="organic_desc">Yeay!! Sampah yang kamu deteksi adalah sampah jenis organik</string>

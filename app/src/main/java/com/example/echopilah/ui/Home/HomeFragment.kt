@@ -48,13 +48,13 @@ class HomeFragment : Fragment() {
         }
     }
 
-    private fun replaceFragment(fragment: Fragment) {
+  /**  private fun replaceFragment(fragment: Fragment) {
         val fragmentManager = parentFragmentManager
         val fragmentTransaction = fragmentManager.beginTransaction()
         fragmentTransaction.replace(R.id.frame_layout, fragment)
         fragmentTransaction.addToBackStack(null)
         fragmentTransaction.commit()
-    }
+    }**/
 
 
 
