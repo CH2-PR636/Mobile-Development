@@ -22,5 +22,9 @@ Install my-project with git clone
 - waste detection to sort organic and non-organic waste
 - non-organic waste utilisation education catalogue
 
+## Authors
+
+- [@Anggi Fauzan](https://github.com/doaibu2020)
+- [@Yofi Dewo Prayogo](https://github.com/yofidewo4)
 ## Note
 * Please make sure your emulator or android device is connected to the internet.
