@@ -24,7 +24,7 @@ Install my-project with git clone
 
 ## Authors
 
-- [@Anggi Fauzan]((https://github.com/kutucoding))
+- [@Anggi Fauzan](https://github.com/kutucoding)
 - [@Yofi Dewo Prayogo](https://github.com/yofidewo4)
 ## Note
 * Please make sure your emulator or android device is connected to the internet.
